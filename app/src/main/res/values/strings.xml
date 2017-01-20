@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">elderly</string>
+
+    <string name="show">Show</string>
+    <string name="message">Click here to show you Identifier</string>
+    <string name="identifier_error_message">Sorry, you do not have identifier</string>
+
+    <string name="dialog_title">GPS need Settings</string>
+    <string name="dialog_body">GPS is not enabled. Do you want to go to settings menu?</string>
+</resources>

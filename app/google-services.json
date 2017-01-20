@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185580684651",
+    "firebase_url": "https://se-project-e2ea5.firebaseio.com",
+    "project_id": "se-project-e2ea5",
+    "storage_bucket": "se-project-e2ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185580684651:android:9282e445c455eee3",
+        "android_client_info": {
+          "package_name": "self.edu.elderly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185580684651-u9gunprm6cqu6d3kf4ldprqujcimfd1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-loTeHrZopQTPerCzt4l_bzcjTbudkwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
